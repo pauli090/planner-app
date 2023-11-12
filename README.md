@@ -13,7 +13,7 @@ Simply click save button on the right, to save the task and be able to come back
 ## Usage
 The planner helps users to schedule their day.
 
-![alt text](../planner-app/assets/WorkDayScheduler.gif)
+![alt text](/assets/WorkDayScheduler.gif)
 
 ## Credits
 Followed tutorials:
